@@ -1,2 +1,2 @@
 # updater-plugin
-~Current Version:1.4~
+~Current Version:1.1~
