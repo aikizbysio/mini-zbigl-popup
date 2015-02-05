@@ -30,6 +30,5 @@ function github_plugin_updater_test_init() {
 		new WP_GitHub_Updater( $config );
 	}
 }
-echo 'hello zbig!';
 
 ?>
