@@ -1,5 +1,6 @@
 # updater-plugin
-~Current Version:1.8~
+~Current Version:1.9~
 
 
 What's new?
+hello :)
