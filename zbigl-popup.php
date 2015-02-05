@@ -3,7 +3,7 @@
 Plugin Name: Mini Zbigl Pop UP
 Plugin URI: http://BiznesPilot.tk
 Description: Wtyczka służy do tworzenia Pop Upów  - wyskakujących okienek do zapisu na listę za pomoacą shortcodu
-Version: 1.6
+Version: 1.7
 Author: Zbigniew Adamski
 Author URI: http://ebiznes-praktycznie.pl/
 */
